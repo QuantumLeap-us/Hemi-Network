@@ -269,7 +269,7 @@ main_menu() {
         echo "========== Hemi Network Node Management =========="
         echo "1. Generate Key"
         echo "2. Run Node"
-        echo "3. Upgrade Version"
+        echo "3. Upgrade Version(0.5.0-0.8.0)"
         echo "4. Backup address.json"
         echo "5. View Logs"
         echo "6. Exit"
